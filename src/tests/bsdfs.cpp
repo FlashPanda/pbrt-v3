@@ -9,7 +9,7 @@
 #include "reflection.h"
 #include "sampling.h"
 #include "memory.h"
-#include "api.h"
+#include "core/api.h"
 #include "paramset.h"
 #include "shapes/disk.h"
 

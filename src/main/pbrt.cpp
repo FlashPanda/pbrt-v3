@@ -33,7 +33,7 @@
 
 // main/pbrt.cpp*
 #include "pbrt.h"
-#include "api.h"
+#include "core/api.h"
 #include "parser.h"
 #include "parallel.h"
 #include <glog/logging.h>

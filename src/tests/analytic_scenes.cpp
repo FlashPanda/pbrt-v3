@@ -3,7 +3,7 @@
 #include "pbrt.h"
 
 #include "accelerators/bvh.h"
-#include "api.h"
+#include "core/api.h"
 #include "cameras/orthographic.h"
 #include "cameras/perspective.h"
 #include "film.h"
